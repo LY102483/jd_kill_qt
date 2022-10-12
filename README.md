@@ -1,5 +1,7 @@
 ## 这是一个京东抢购，秒杀，库存监控的软件
 
+### 下载地址：https://github.com/LY102483/jd_kill_qt/releases/download/python/bataV1_0.zip
+
 ### 使用步骤：
 + 电脑安装最新版的Chrome浏览器，我目前使用的Chrome浏览器的版本号为：106.0.5249.119
 + 下载releases中的压缩包。
