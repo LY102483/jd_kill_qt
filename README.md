@@ -1,6 +1,6 @@
 ## 这是一个京东抢购，秒杀，库存监控的软件
 
-### 下载地址：https://github.com/LY102483/jd_kill_qt/releases/download/python/bataV1_0.zip
+### 下载地址：https://github.com/LY102483/jd_kill_qt/releases/download/python/jd_kill.zip
 
 ### QQ交流群：
 <img src="http://a1.qpic.cn/psc?/V54bcM3v3iOG2k3Q3EFe4cZqM82umNQS/ruAMsa53pVQWN7FLK88i5n82bWQOWwfYVQGDFr24Igd*lZk0MOpsBjzVuhJJsxMTOrtnpnFcLQzQ8aXaJ1btJbeMV5KbPqzWf8cWplzcZLU!/c&ek=1&kp=1&pt=0&bo=ZQTRB2UE0QcBFzA!&tl=3&vuin=1024839103&tm=1665745200&dis_t=1665747652&dis_k=3632e160fb5d2559cf0c067db160eb63&sce=60-2-2&rf=viewer_4" height='500'>
