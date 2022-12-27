@@ -1,10 +1,16 @@
-## 这是一个京东抢购，秒杀，库存监控的软件
+### 已停止注册
+### 已停止注册
+### 已停止注册
+
+
+
+~## 这是一个京东抢购，秒杀，库存监控的软件~
 
 ### ~下载地址：https://github.com/LY102483/jd_kill_qt/releases/download/python/jd_kill.zip~
-### QQ交流群：716805089，最新版本已经放在[QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=bMzEWz3eeRKFgb8cAivrCXy_GcbXeXYy&jump_from=webapi&authKey=Nml6joqj4A8F4B2n9jANM8I0gBqbAQmXtJnbJVVcIBimDeMAgN9yWu9ZscWQVqm1)了。
+### ~QQ交流群：716805089，最新版本已经放在[QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=bMzEWz3eeRKFgb8cAivrCXy_GcbXeXYy&jump_from=webapi&authKey=Nml6joqj4A8F4B2n9jANM8I0gBqbAQmXtJnbJVVcIBimDeMAgN9yWu9ZscWQVqm1)了。~
 
 ***
-### 2022.12.20说明：有部分同学反馈打开软件后显示无法连接京东服务器，请更新Chromedriver，具体步骤QQ群内有。
+### ~2022.12.20说明：有部分同学反馈打开软件后显示无法连接京东服务器，请更新Chromedriver，具体步骤QQ群内有。~
 ***
 
 ### 使用步骤：
