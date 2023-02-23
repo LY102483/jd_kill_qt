@@ -5,7 +5,7 @@
 ### 去闲鱼下单支持我吧：https://h5.m.goofish.com/item?id=703803532082
 ### 闲鱼自动发货，百度云提取就行了，文件不大，也就100多行代码
 ### 如果想要GUI带库存监控，有货下单版本的，得加钱(狗头)
-![image](https://gitee.com/ly60008339/jd_kill/raw/master/pic.png)
+![image](https://github.com/LY102483/jd_kill_qt/blob/main/pic.png)
 ***
 
 ### ~项目源码已开源：https://github.com/LY102483/jd_kill~
